@@ -14,63 +14,63 @@
       "name": "Preparation of Sols",
       "short-name": "preparation-of-sols",
       "repo": "https://github.com/virtual-labs/exp-preparation-of-sols-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Preparation of Gels",
       "short-name": "preparation-of-gels",
       "repo": "https://github.com/virtual-labs/exp-preparation-of-gels-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Demonstration of the Preparation and Use of Association Colloids (Micelles)",
       "short-name": "association-colloids",
       "repo": "https://github.com/virtual-labs/exp-association-colloids-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Determination of Critical Micelle Concentration (CMC) of a Surfactant",
       "short-name": "critical-micelle-concentration",
       "repo": "https://github.com/virtual-labs/exp-critical-micelle-concentration-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Demonstration of the Surface Tension Lowering of Water by Soaps/Detergents",
       "short-name": "surface-tension-lowering",
       "repo": "https://github.com/virtual-labs/exp-surface-tension-lowering-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Demonstration of Tyndall Effect or Tyndall Scattering in Colloidal Systems",
       "short-name": "tyndall-scattering",
       "repo": "https://github.com/virtual-labs/exp-tyndall-scattering-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Gel Electrophoresis",
       "short-name": "gel-electrophoresis",
       "repo": "https://github.com/virtual-labs/exp-gel-electrophoresis-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Demonstration of the Surface-Effect on Chemical Properties of Finely Divided Particles",
       "short-name": "surface-effect",
       "repo": "https://github.com/virtual-labs/exp-surface-effect-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Study of the Catalytic Effects of Finely Divided Particles",
       "short-name": "catalytic-effects",
       "repo": "https://github.com/virtual-labs/exp-catalytic-effects-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
@@ -93,5 +93,5 @@
   },
   "exp_name": "Study of the Catalytic Effects of Finely Divided Particles",
   "exp_short_name": "catalytic-effects",
-  "version": "v0.1.0"
+  "version": "v0.4.0"
 }
