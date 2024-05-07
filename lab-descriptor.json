@@ -93,8 +93,5 @@
     "universities": [
       "Universities with Chemical Sciences/Chemical Engineering"
     ]
-  },
-  "exp_name": "Study of the Catalytic Effects of Finely Divided Particles",
-  "exp_short_name": "catalytic-effects",
-  "version": "v0.6.0"
+  }
 }
