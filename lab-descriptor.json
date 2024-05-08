@@ -5,6 +5,7 @@
     "code": "CHEMSCI"
   },
   "lab": "Colloid and Surface Chemistry Virtual Lab",
+  "lab_display_name": "Colloid and Surface Chemistry Virtual Lab",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
